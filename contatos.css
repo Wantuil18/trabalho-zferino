@@ -3,15 +3,17 @@
   --color2: #1d385e;
   --color3: #354d75;
   --color4: #4d618b;
-  --color5: #6576a2;
+  --color5: #6576a2; 
 }
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: var(--color3);
+    background-color: var(--color3);    
     color: white;
 }
+
+
 
 header {
     background-color: var(--color1);
